@@ -1,0 +1,5 @@
+.layout {
+    background-image: url('/images/wallhaven-wqery6-light.webp'); /* 可选：背景图片 */
+    background-size: cover;
+    background-attachment: fixed;
+  }
